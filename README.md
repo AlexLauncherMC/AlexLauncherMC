@@ -1,6 +1,6 @@
 # Based on Amethyst (GNU LGPL v3.0), Original authors: AngelAuraMC Team, Modifications by AlexLauncherMC Team
 
-<img src="(https://github.com/AlexLauncherMC/AlexLauncherMC/blob/main/alex.jpg)" align="left" width="130" height="130" alt="Amethyst logo">
+<img src="https://github.com/AlexLauncherMC/AlexLauncherMC/blob/main/alex.jpg" align="left" width="130" height="130" alt="Amethyst logo">
 
 
 *From [Boardwalk](https://github.com/zhuowei/Boardwalk)'s ashes and [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)'s ruined reputation, here comes AlexMCLauncher!*
