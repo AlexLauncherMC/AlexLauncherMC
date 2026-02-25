@@ -1,5 +1,5 @@
 Original authors: AngelAuraMC Team
-Modifications by AlexLauncherMC Team
+
 
 <img src="https://github.com/AlexLauncherMC/AlexLauncherMC/blob/main/alex.jpg" align="left" width="130" height="130" alt="Amethyst logo">
 
