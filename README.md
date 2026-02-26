@@ -1,7 +1,6 @@
-Original authors: AngelAuraMC Team
+<h1 align="center">Angel Aura Amethyst</h1>
 
-
-<img src="https://github.com/AlexLauncherMC/AlexLauncherMC/blob/main/alex.jpg" align="left" width="130" height="130" alt="Amethyst logo">
+<img src="https://github.com/AngelAuraMC/Amethyst-Android/blob/v3_openjdk/app_pojavlauncher/src/main/assets/amethyst.png" align="left" width="130" height="130" alt="Amethyst logo">
 
 
 *From [Boardwalk](https://github.com/zhuowei/Boardwalk)'s ashes and [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)'s ruined reputation, here comes AlexMCLauncher!*

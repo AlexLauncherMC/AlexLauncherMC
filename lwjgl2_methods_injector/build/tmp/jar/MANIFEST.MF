@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+PreMain-Class: org.angelauramc.lwjgl2_methods_injector.startInjectors
+Can-Redefine-Classes: true
+
