@@ -1,0 +1,300 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.alexmc.alexmclauncher.debug"
+4    android:versionCode="10000000"
+5    android:versionName="amethyst-legacy-0-250-e37b69072-v3_openjdk" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-feature android:glEsVersion="0x00020000" />
+11-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:5:5-54
+11-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:5:19-51
+12    <uses-feature
+12-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:6:5-8:36
+13        android:name="android.hardware.type.pc"
+13-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:7:9-48
+14        android:required="false" />
+14-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:8:9-33
+15
+16    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+16-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:10:5-77
+16-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:10:22-74
+17    <uses-permission
+17-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:11:5-13:38
+18        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+18-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:12:9-65
+19        android:maxSdkVersion="28" />
+19-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:13:9-35
+20    <uses-permission
+20-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:14:5-16:38
+21        android:name="android.permission.READ_EXTERNAL_STORAGE"
+21-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:15:9-64
+22        android:maxSdkVersion="28" />
+22-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:16:9-35
+23    <uses-permission android:name="android.permission.INTERNET" />
+23-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:17:5-67
+23-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:17:22-64
+24    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+24-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:18:5-79
+24-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:18:22-76
+25    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+25-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:19:5-71
+25-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:19:22-68
+26    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+26-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:20:5-77
+26-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:20:22-74
+27    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC" />
+27-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:21:5-86
+27-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:21:22-84
+28    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE" />
+28-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:22:5-88
+28-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:22:22-86
+29    <uses-permission android:name="android.permission.VIBRATE" />
+29-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:23:5-66
+29-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:23:22-63
+30
+31    <queries>
+31-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:134:5-136:15
+32        <package android:name="net.kdt.pojavlaunch.ffmpeg" />
+32-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:135:9-61
+32-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:135:18-59
+33    </queries>
+34
+35    <application
+35-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:25:5-133:19
+36        android:name="net.kdt.pojavlaunch.PojavApplication"
+36-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:26:9-41
+37        android:allowBackup="true"
+37-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:27:9-35
+38        android:allowNativeHeapPointerTagging="false"
+38-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:28:9-54
+39        android:appCategory="game"
+39-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:29:9-35
+40        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+40-->[androidx.core:core:1.6.0] C:\Users\DELL\.gradle\caches\8.13\transforms\a38eb84c39910fcc6ea2c777242df8c9\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+41        android:debuggable="true"
+42        android:extractNativeLibs="true"
+43        android:hasFragileUserData="true"
+43-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:30:9-42
+44        android:icon="@mipmap/ic_launcher"
+44-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:31:9-43
+45        android:isGame="true"
+45-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:33:9-30
+46        android:label="@string/app_name"
+46-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:34:9-41
+47        android:process=":launcher"
+47-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:35:9-36
+48        android:resizeableActivity="true"
+48-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:36:9-42
+49        android:roundIcon="@mipmap/ic_launcher_round"
+49-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:32:9-54
+50        android:theme="@style/AppTheme" >
+50-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:37:9-40
+51        <activity
+51-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:38:9-40:40
+52            android:name="net.kdt.pojavlaunch.MissingStorageActivity"
+52-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:39:13-51
+53            android:exported="false" />
+53-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:40:13-37
+54
+55        <meta-data
+55-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:42:9-44:43
+56            android:name="android.max_aspect"
+56-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:43:13-46
+57            android:value="ratio_float" />
+57-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:44:13-40
+58
+59        <activity
+59-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:46:9-56:20
+60            android:name="net.kdt.pojavlaunch.TestStorageActivity"
+60-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:47:13-48
+61            android:exported="true"
+61-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:48:13-36
+62            android:label="@string/app_short_name"
+62-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:49:13-51
+63            android:launchMode="singleTop" >
+63-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:50:13-43
+64            <intent-filter>
+64-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:51:13-55:29
+65                <action android:name="android.intent.action.MAIN" />
+65-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:52:17-69
+65-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:52:25-66
+66
+67                <category android:name="android.intent.category.LAUNCHER" />
+67-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:54:17-77
+67-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:54:27-74
+68            </intent-filter>
+69        </activity>
+70        <activity
+70-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:57:9-60:57
+71            android:name="net.kdt.pojavlaunch.LauncherActivity"
+71-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:58:13-45
+72            android:label="@string/app_short_name"
+72-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:59:13-51
+73            android:windowSoftInputMode="adjustResize" />
+73-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:60:13-55
+74        <activity
+74-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:61:9-80:20
+75            android:name="net.kdt.pojavlaunch.ImportControlActivity"
+75-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:62:13-50
+76            android:configChanges="keyboard|keyboardHidden"
+76-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:63:13-60
+77            android:exported="true"
+77-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:64:13-36
+78            android:launchMode="singleInstance"
+78-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:65:13-48
+79            android:windowSoftInputMode="stateVisible" >
+79-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:66:13-55
+80            <intent-filter
+80-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:67:13-79:29
+81                android:label="@string/import_control_label"
+81-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:68:17-61
+82                android:scheme="content" >
+82-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:69:17-41
+83                <action android:name="android.intent.action.VIEW" />
+83-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:71:17-69
+83-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:71:25-66
+84                <action android:name="android.intent.action.SEND" />
+84-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:72:17-69
+84-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:72:25-66
+85
+86                <category android:name="android.intent.category.DEFAULT" />
+86-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:74:17-76
+86-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:74:27-73
+87
+88                <data android:mimeType="application/json" />
+88-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:76:17-61
+88-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:76:23-58
+89                <data android:mimeType="text/json" />
+89-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:76:17-61
+89-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:76:23-58
+90                <data android:mimeType="text/plain" />
+90-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:76:17-61
+90-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:76:23-58
+91            </intent-filter>
+92        </activity>
+93        <activity
+93-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:81:9-84:70
+94            android:name="net.kdt.pojavlaunch.FatalErrorActivity"
+94-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:82:13-47
+95            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|navigation"
+95-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:83:13-94
+96            android:theme="@style/Theme.AppCompat.DayNight.Dialog" />
+96-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:84:13-67
+97        <activity
+97-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:85:9-87:70
+98            android:name="net.kdt.pojavlaunch.ShowErrorActivity"
+98-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:85:19-52
+99            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|navigation"
+99-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:86:13-94
+100            android:theme="@style/Theme.AppCompat.DayNight.Dialog" />
+100-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:87:13-67
+101        <activity
+101-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:88:9-91:70
+102            android:name="net.kdt.pojavlaunch.ExitActivity"
+102-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:89:13-41
+103            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|navigation"
+103-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:90:13-94
+104            android:theme="@style/Theme.AppCompat.DayNight.Dialog" />
+104-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:91:13-67
+105        <activity
+105-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:92:9-96:59
+106            android:name="net.kdt.pojavlaunch.JavaGUILauncherActivity"
+106-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:94:13-52
+107            android:configChanges="keyboardHidden|orientation|screenSize|smallestScreenSize|screenLayout|keyboard|navigation|uiMode"
+107-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:95:13-133
+108            android:process=":gui_installer"
+108-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:93:13-45
+109            android:screenOrientation="sensorLandscape" />
+109-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:96:13-56
+110        <activity
+110-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:97:9-107:20
+111            android:name="net.kdt.pojavlaunch.CustomControlsActivity"
+111-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:98:13-51
+112            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|navigation"
+112-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:99:13-94
+113            android:exported="false"
+113-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:100:13-37
+114            android:screenOrientation="sensorLandscape" >
+114-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:101:13-56
+115            <intent-filter>
+115-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:102:13-106:29
+116                <action android:name=".CustomControlsActivity" />
+117
+118                <category android:name="android.intent.category.DEFAULT" />
+118-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:74:17-76
+118-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:74:27-73
+119            </intent-filter>
+120        </activity>
+121        <activity
+121-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:108:9-113:59
+122            android:name="net.kdt.pojavlaunch.MainActivity"
+122-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:109:13-41
+123            android:configChanges="keyboardHidden|orientation|screenSize|smallestScreenSize|screenLayout|keyboard|navigation|uiMode"
+123-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:110:13-133
+124            android:launchMode="singleTop"
+124-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:111:13-43
+125            android:process=":game"
+125-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:112:13-36
+126            android:screenOrientation="sensorLandscape" />
+126-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:113:13-56
+127
+128        <provider
+128-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:115:9-124:20
+129            android:name="net.kdt.pojavlaunch.scoped.FolderProvider"
+129-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:116:13-50
+130            android:authorities="@string/storageProviderAuthorities"
+130-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:117:13-69
+131            android:exported="true"
+131-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:118:13-36
+132            android:grantUriPermissions="true"
+132-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:119:13-47
+133            android:permission="android.permission.MANAGE_DOCUMENTS" >
+133-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:120:13-69
+134            <intent-filter>
+134-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:121:13-123:29
+135                <action android:name="android.content.action.DOCUMENTS_PROVIDER" />
+135-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:122:17-84
+135-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:122:25-81
+136            </intent-filter>
+137        </provider>
+138
+139        <service
+139-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:126:9-127:55
+140            android:name="net.kdt.pojavlaunch.services.ProgressService"
+140-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:126:18-58
+141            android:foregroundServiceType="dataSync" />
+141-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:127:13-53
+142        <service
+142-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:128:9-132:19
+143            android:name="net.kdt.pojavlaunch.services.GameService"
+143-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:128:18-54
+144            android:foregroundServiceType="specialUse"
+144-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:129:13-55
+145            android:process=":game" >
+145-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:128:55-78
+146            <property
+146-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:130:13-131:242
+147                android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE"
+147-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:130:23-82
+148                android:value="This application is intended to run a 3rd-party piece of software which cannot be managed using the activity&apos;s saved instance state. This service is used for background persistence of this piece of software." />
+148-->E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:131:17-240
+149        </service>
+150
+151        <uses-library
+151-->[androidx.window:window:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\09d71f44a0ecaeea00f8ad9e25bf49b8\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+152            android:name="androidx.window.extensions"
+152-->[androidx.window:window:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\09d71f44a0ecaeea00f8ad9e25bf49b8\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+153            android:required="false" />
+153-->[androidx.window:window:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\09d71f44a0ecaeea00f8ad9e25bf49b8\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+154        <uses-library
+154-->[androidx.window:window:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\09d71f44a0ecaeea00f8ad9e25bf49b8\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+155            android:name="androidx.window.sidecar"
+155-->[androidx.window:window:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\09d71f44a0ecaeea00f8ad9e25bf49b8\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+156            android:required="false" />
+156-->[androidx.window:window:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\09d71f44a0ecaeea00f8ad9e25bf49b8\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+157    </application>
+158
+159</manifest>

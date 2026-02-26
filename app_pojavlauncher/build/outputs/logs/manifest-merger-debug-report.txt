@@ -1,0 +1,454 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:2:1-137:12
+INJECTED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:2:1-137:12
+INJECTED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:2:1-137:12
+INJECTED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:2:1-137:12
+MERGED from [kopper-zink-release.aar] C:\Users\DELL\.gradle\caches\8.13\transforms\452a8743f6a8b9a9c240616968f8f62f\transformed\kopper-zink-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.preference:preference:1.2.0] C:\Users\DELL\.gradle\caches\8.13\transforms\9905b4b8c0751073a8003a619426d9b4\transformed\preference-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\DELL\.gradle\caches\8.13\transforms\bf549c3099cdf25061425389d8b547f3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\DELL\.gradle\caches\8.13\transforms\4f38a8b810fabccda3493647ae7eadaf\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.2.0] C:\Users\DELL\.gradle\caches\8.13\transforms\09c21621341b050b0c86f7866d0ac9e1\transformed\drawerlayout-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta01] C:\Users\DELL\.gradle\caches\8.13\transforms\ff54a2714e14b9e465a7cb72655aedaf\transformed\viewpager2-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\DELL\.gradle\caches\8.13\transforms\708a8e6b0f84a74a0f04c4abab8c993e\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] C:\Users\DELL\.gradle\caches\8.13\transforms\36703995aecb1159493177eca7f4c26f\transformed\recyclerview-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\DELL\.gradle\caches\8.13\transforms\634998b8c32c5fedb0bf620d0f082215\transformed\fragment-ktx-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\DELL\.gradle\caches\8.13\transforms\1c94034be5ab80b16509e7c5d112d2b4\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\60bb7516f0f4446af15ed507436e8ca3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\27027da896708a21f28b2fd7dae8370a\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.2] C:\Users\DELL\.gradle\caches\8.13\transforms\ace0a50b58d60f723e4fc16f5c98d2ef\transformed\activity-ktx-1.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\35a581832a4c4d6e047f6a2be54dceca\transformed\core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\09d71f44a0ecaeea00f8ad9e25bf49b8\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\DELL\.gradle\caches\8.13\transforms\99ff0129c5ddc6dae486eaf544acf5ae\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\DELL\.gradle\caches\8.13\transforms\561c7f95af40cb68534705a4ed5409ec\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\89cf9247d94154ea4cd676866b70db85\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\DELL\.gradle\caches\8.13\transforms\396bc3ed4d891b4180bf2085301f86dd\transformed\activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\c79c259e81b5ca19a1648af302c3b4e0\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\7bf2777057d186fa5030f3071e4ecf39\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\DELL\.gradle\caches\8.13\transforms\a38eb84c39910fcc6ea2c777242df8c9\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\DELL\.gradle\caches\8.13\transforms\6eeae61f6b656647dca3a80a29cbb899\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\b3b03185f3ae94a65215714e4d53a173\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\DELL\.gradle\caches\8.13\transforms\8b4f27a34754ce67141367a6c41a4494\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\DELL\.gradle\caches\8.13\transforms\14fee163717f86060324945a5f63b6ea\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\DELL\.gradle\caches\8.13\transforms\8f19fabcd3c022bf9450a2923c33c4eb\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\f5c2561eaaa48599c3ef7243e2deb302\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\318bf52429da5ca2e34008a28ac7e98b\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\DELL\.gradle\caches\8.13\transforms\2621018b0a121aa68a611bd48579c109\transformed\lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\DELL\.gradle\caches\8.13\transforms\b9a64d28b5ee6672352e4795bc7f3796\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\5ae7d5d7a4fb936cd8eb4b129951a2d1\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\DELL\.gradle\caches\8.13\transforms\9c3ac8dba0297623c52533acf02a9779\transformed\lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\383bb11a71d4aaf24d8f18f97a3fa7b4\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\DELL\.gradle\caches\8.13\transforms\3fcaac0baddb94c1482d5a8cafe6fd98\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\2d1eb8e93f296653a4089fa56cc03b87\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\3cae8921797cc6da2c5d91ff9ff4cbdf\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.duanhong169:checkerboarddrawable:1.0.2] C:\Users\DELL\.gradle\caches\8.13\transforms\e3919ca2c0e43dea325424413852b10d\transformed\checkerboarddrawable-1.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.PojavLauncherTeam:portrait-sdp:ed33e89cbc] C:\Users\DELL\.gradle\caches\8.13\transforms\430acec3390cd0f7dba4fdc1dc3f4c5a\transformed\portrait-sdp-ed33e89cbc\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.PojavLauncherTeam:portrait-ssp:6c02fd739b] C:\Users\DELL\.gradle\caches\8.13\transforms\8bf329b86b4962f8f27b20d275c0cc44\transformed\portrait-ssp-6c02fd739b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.Mathias-Boulay:ExtendedView:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\897a92342ad426618d730cdcc0b6b97c\transformed\ExtendedView-1.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.Mathias-Boulay:android_gamepad_remapper:2.0.3] C:\Users\DELL\.gradle\caches\8.13\transforms\a30501c58e63eb22713e8ca892482f77\transformed\android_gamepad_remapper-2.0.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.Mathias-Boulay:virtual-joystick-android:1.14] C:\Users\DELL\.gradle\caches\8.13\transforms\f837ad04ffdb7410fc1bb84869294cd7\transformed\virtual-joystick-android-1.14\AndroidManifest.xml:2:1-9:12
+MERGED from [com.bytedance:bytehook:1.0.9] C:\Users\DELL\.gradle\caches\8.13\transforms\daeb383adce4504cbb3b450d370b3052\transformed\bytehook-1.0.9\AndroidManifest.xml:2:1-7:12
+MERGED from [top.fifthlight.touchcontroller:proxy-client-android:0.0.4] C:\Users\DELL\.gradle\caches\8.13\transforms\c610015ac7708cb352fbcb929b5d81f2\transformed\proxy-client-android-0.0.4\AndroidManifest.xml:2:1-9:12
+MERGED from [:MobileGlues] E:\Code\AlexMCLauncher\Amethyst-Android\MobileGlues\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\6cfa94707cdc112a9500a6c812afeff3\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:2:11-69
+uses-feature#0x00020000
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:5:5-54
+	android:glEsVersion
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:5:19-51
+uses-feature#android.hardware.type.pc
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:6:5-8:36
+	android:required
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:8:9-33
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:7:9-48
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:10:5-77
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:10:22-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:11:5-13:38
+	android:maxSdkVersion
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:13:9-35
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:12:9-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:14:5-16:38
+	android:maxSdkVersion
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:16:9-35
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:15:9-64
+uses-permission#android.permission.INTERNET
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:19:22-68
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:20:5-77
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:20:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_DATA_SYNC
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:21:5-86
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:21:22-84
+uses-permission#android.permission.FOREGROUND_SERVICE_SPECIAL_USE
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:22:5-88
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:22:22-86
+uses-permission#android.permission.VIBRATE
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:23:5-66
+MERGED from [top.fifthlight.touchcontroller:proxy-client-android:0.0.4] C:\Users\DELL\.gradle\caches\8.13\transforms\c610015ac7708cb352fbcb929b5d81f2\transformed\proxy-client-android-0.0.4\AndroidManifest.xml:7:5-66
+MERGED from [top.fifthlight.touchcontroller:proxy-client-android:0.0.4] C:\Users\DELL\.gradle\caches\8.13\transforms\c610015ac7708cb352fbcb929b5d81f2\transformed\proxy-client-android-0.0.4\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:23:22-63
+application
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:25:5-133:19
+INJECTED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:25:5-133:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\DELL\.gradle\caches\8.13\transforms\bf549c3099cdf25061425389d8b547f3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\DELL\.gradle\caches\8.13\transforms\bf549c3099cdf25061425389d8b547f3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.window:window:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\09d71f44a0ecaeea00f8ad9e25bf49b8\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\09d71f44a0ecaeea00f8ad9e25bf49b8\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\DELL\.gradle\caches\8.13\transforms\a38eb84c39910fcc6ea2c777242df8c9\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\DELL\.gradle\caches\8.13\transforms\a38eb84c39910fcc6ea2c777242df8c9\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\DELL\.gradle\caches\8.13\transforms\6eeae61f6b656647dca3a80a29cbb899\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\DELL\.gradle\caches\8.13\transforms\6eeae61f6b656647dca3a80a29cbb899\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml
+	android:process
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:35:9-36
+	android:appCategory
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:29:9-35
+	android:roundIcon
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:32:9-54
+	android:icon
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:31:9-43
+	android:allowNativeHeapPointerTagging
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:28:9-54
+	android:hasFragileUserData
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:30:9-42
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\DELL\.gradle\caches\8.13\transforms\a38eb84c39910fcc6ea2c777242df8c9\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:34:9-41
+	android:resizeableActivity
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:36:9-42
+	android:allowBackup
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:27:9-35
+	android:theme
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:37:9-40
+	android:isGame
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:33:9-30
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:26:9-41
+activity#net.kdt.pojavlaunch.MissingStorageActivity
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:38:9-40:40
+	android:exported
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:39:13-51
+meta-data#android.max_aspect
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:42:9-44:43
+	android:value
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:44:13-40
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:43:13-46
+activity#net.kdt.pojavlaunch.TestStorageActivity
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:46:9-56:20
+	android:label
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:49:13-51
+	android:launchMode
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:50:13-43
+	android:exported
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:48:13-36
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:47:13-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:51:13-55:29
+action#android.intent.action.MAIN
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:54:27-74
+activity#net.kdt.pojavlaunch.LauncherActivity
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:57:9-60:57
+	android:label
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:59:13-51
+	android:windowSoftInputMode
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:60:13-55
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:58:13-45
+activity#net.kdt.pojavlaunch.ImportControlActivity
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:61:9-80:20
+	android:launchMode
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:65:13-48
+	android:windowSoftInputMode
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:66:13-55
+	android:exported
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:64:13-36
+	android:configChanges
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:63:13-60
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:62:13-50
+intent-filter#action:name:android.intent.action.SEND+action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/json+data:mimeType:text/json+data:mimeType:text/plain
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:67:13-79:29
+	android:label
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:68:17-61
+	android:scheme
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:69:17-41
+	tools:ignore
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:70:17-47
+action#android.intent.action.VIEW
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:71:17-69
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:71:25-66
+action#android.intent.action.SEND
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:72:17-69
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:72:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:74:17-76
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:74:27-73
+data
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:76:17-61
+	android:mimeType
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:76:23-58
+activity#net.kdt.pojavlaunch.FatalErrorActivity
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:81:9-84:70
+	android:configChanges
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:83:13-94
+	android:theme
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:84:13-67
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:82:13-47
+activity#net.kdt.pojavlaunch.ShowErrorActivity
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:85:9-87:70
+	android:configChanges
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:86:13-94
+	android:theme
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:87:13-67
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:85:19-52
+activity#net.kdt.pojavlaunch.ExitActivity
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:88:9-91:70
+	android:configChanges
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:90:13-94
+	android:theme
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:91:13-67
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:89:13-41
+activity#net.kdt.pojavlaunch.JavaGUILauncherActivity
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:92:9-96:59
+	android:screenOrientation
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:96:13-56
+	android:process
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:93:13-45
+	android:configChanges
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:95:13-133
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:94:13-52
+activity#net.kdt.pojavlaunch.CustomControlsActivity
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:97:9-107:20
+	android:screenOrientation
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:101:13-56
+	android:exported
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:100:13-37
+	android:configChanges
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:99:13-94
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:98:13-51
+intent-filter#action:name:.CustomControlsActivity+category:name:android.intent.category.DEFAULT
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:102:13-106:29
+action#.CustomControlsActivity
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:103:17-66
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:103:25-63
+activity#net.kdt.pojavlaunch.MainActivity
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:108:9-113:59
+	android:screenOrientation
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:113:13-56
+	android:process
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:112:13-36
+	android:launchMode
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:111:13-43
+	android:configChanges
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:110:13-133
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:109:13-41
+provider#net.kdt.pojavlaunch.scoped.FolderProvider
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:115:9-124:20
+	android:grantUriPermissions
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:119:13-47
+	android:authorities
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:117:13-69
+	android:exported
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:118:13-36
+	android:permission
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:120:13-69
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:116:13-50
+intent-filter#action:name:android.content.action.DOCUMENTS_PROVIDER
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:121:13-123:29
+action#android.content.action.DOCUMENTS_PROVIDER
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:122:17-84
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:122:25-81
+service#net.kdt.pojavlaunch.services.ProgressService
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:126:9-127:55
+	android:foregroundServiceType
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:127:13-53
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:126:18-58
+service#net.kdt.pojavlaunch.services.GameService
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:128:9-132:19
+	android:process
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:128:55-78
+	android:foregroundServiceType
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:129:13-55
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:128:18-54
+property#android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:130:13-131:242
+	android:value
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:131:17-240
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:130:23-82
+queries
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:134:5-136:15
+package#net.kdt.pojavlaunch.ffmpeg
+ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:135:9-61
+	android:name
+		ADDED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml:135:18-59
+uses-sdk
+INJECTED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml
+INJECTED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml
+MERGED from [kopper-zink-release.aar] C:\Users\DELL\.gradle\caches\8.13\transforms\452a8743f6a8b9a9c240616968f8f62f\transformed\kopper-zink-release\AndroidManifest.xml:5:5-44
+MERGED from [kopper-zink-release.aar] C:\Users\DELL\.gradle\caches\8.13\transforms\452a8743f6a8b9a9c240616968f8f62f\transformed\kopper-zink-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.preference:preference:1.2.0] C:\Users\DELL\.gradle\caches\8.13\transforms\9905b4b8c0751073a8003a619426d9b4\transformed\preference-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.0] C:\Users\DELL\.gradle\caches\8.13\transforms\9905b4b8c0751073a8003a619426d9b4\transformed\preference-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\DELL\.gradle\caches\8.13\transforms\bf549c3099cdf25061425389d8b547f3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\DELL\.gradle\caches\8.13\transforms\bf549c3099cdf25061425389d8b547f3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\DELL\.gradle\caches\8.13\transforms\4f38a8b810fabccda3493647ae7eadaf\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\DELL\.gradle\caches\8.13\transforms\4f38a8b810fabccda3493647ae7eadaf\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.2.0] C:\Users\DELL\.gradle\caches\8.13\transforms\09c21621341b050b0c86f7866d0ac9e1\transformed\drawerlayout-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.2.0] C:\Users\DELL\.gradle\caches\8.13\transforms\09c21621341b050b0c86f7866d0ac9e1\transformed\drawerlayout-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta01] C:\Users\DELL\.gradle\caches\8.13\transforms\ff54a2714e14b9e465a7cb72655aedaf\transformed\viewpager2-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta01] C:\Users\DELL\.gradle\caches\8.13\transforms\ff54a2714e14b9e465a7cb72655aedaf\transformed\viewpager2-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\DELL\.gradle\caches\8.13\transforms\708a8e6b0f84a74a0f04c4abab8c993e\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\DELL\.gradle\caches\8.13\transforms\708a8e6b0f84a74a0f04c4abab8c993e\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] C:\Users\DELL\.gradle\caches\8.13\transforms\36703995aecb1159493177eca7f4c26f\transformed\recyclerview-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] C:\Users\DELL\.gradle\caches\8.13\transforms\36703995aecb1159493177eca7f4c26f\transformed\recyclerview-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\DELL\.gradle\caches\8.13\transforms\634998b8c32c5fedb0bf620d0f082215\transformed\fragment-ktx-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\DELL\.gradle\caches\8.13\transforms\634998b8c32c5fedb0bf620d0f082215\transformed\fragment-ktx-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\DELL\.gradle\caches\8.13\transforms\1c94034be5ab80b16509e7c5d112d2b4\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\DELL\.gradle\caches\8.13\transforms\1c94034be5ab80b16509e7c5d112d2b4\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\60bb7516f0f4446af15ed507436e8ca3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\60bb7516f0f4446af15ed507436e8ca3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\27027da896708a21f28b2fd7dae8370a\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\27027da896708a21f28b2fd7dae8370a\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.2] C:\Users\DELL\.gradle\caches\8.13\transforms\ace0a50b58d60f723e4fc16f5c98d2ef\transformed\activity-ktx-1.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.2] C:\Users\DELL\.gradle\caches\8.13\transforms\ace0a50b58d60f723e4fc16f5c98d2ef\transformed\activity-ktx-1.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\35a581832a4c4d6e047f6a2be54dceca\transformed\core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\35a581832a4c4d6e047f6a2be54dceca\transformed\core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\09d71f44a0ecaeea00f8ad9e25bf49b8\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\09d71f44a0ecaeea00f8ad9e25bf49b8\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\DELL\.gradle\caches\8.13\transforms\99ff0129c5ddc6dae486eaf544acf5ae\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\DELL\.gradle\caches\8.13\transforms\99ff0129c5ddc6dae486eaf544acf5ae\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\DELL\.gradle\caches\8.13\transforms\561c7f95af40cb68534705a4ed5409ec\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\DELL\.gradle\caches\8.13\transforms\561c7f95af40cb68534705a4ed5409ec\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\89cf9247d94154ea4cd676866b70db85\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\89cf9247d94154ea4cd676866b70db85\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\DELL\.gradle\caches\8.13\transforms\396bc3ed4d891b4180bf2085301f86dd\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\DELL\.gradle\caches\8.13\transforms\396bc3ed4d891b4180bf2085301f86dd\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\c79c259e81b5ca19a1648af302c3b4e0\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\c79c259e81b5ca19a1648af302c3b4e0\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\7bf2777057d186fa5030f3071e4ecf39\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\7bf2777057d186fa5030f3071e4ecf39\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\DELL\.gradle\caches\8.13\transforms\a38eb84c39910fcc6ea2c777242df8c9\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\DELL\.gradle\caches\8.13\transforms\a38eb84c39910fcc6ea2c777242df8c9\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\DELL\.gradle\caches\8.13\transforms\6eeae61f6b656647dca3a80a29cbb899\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\DELL\.gradle\caches\8.13\transforms\6eeae61f6b656647dca3a80a29cbb899\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\b3b03185f3ae94a65215714e4d53a173\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\b3b03185f3ae94a65215714e4d53a173\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\DELL\.gradle\caches\8.13\transforms\8b4f27a34754ce67141367a6c41a4494\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\DELL\.gradle\caches\8.13\transforms\8b4f27a34754ce67141367a6c41a4494\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\DELL\.gradle\caches\8.13\transforms\14fee163717f86060324945a5f63b6ea\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\DELL\.gradle\caches\8.13\transforms\14fee163717f86060324945a5f63b6ea\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\DELL\.gradle\caches\8.13\transforms\8f19fabcd3c022bf9450a2923c33c4eb\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\DELL\.gradle\caches\8.13\transforms\8f19fabcd3c022bf9450a2923c33c4eb\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\f5c2561eaaa48599c3ef7243e2deb302\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\f5c2561eaaa48599c3ef7243e2deb302\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\318bf52429da5ca2e34008a28ac7e98b\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\318bf52429da5ca2e34008a28ac7e98b\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\DELL\.gradle\caches\8.13\transforms\2621018b0a121aa68a611bd48579c109\transformed\lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\DELL\.gradle\caches\8.13\transforms\2621018b0a121aa68a611bd48579c109\transformed\lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\DELL\.gradle\caches\8.13\transforms\b9a64d28b5ee6672352e4795bc7f3796\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\DELL\.gradle\caches\8.13\transforms\b9a64d28b5ee6672352e4795bc7f3796\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\5ae7d5d7a4fb936cd8eb4b129951a2d1\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\5ae7d5d7a4fb936cd8eb4b129951a2d1\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\DELL\.gradle\caches\8.13\transforms\9c3ac8dba0297623c52533acf02a9779\transformed\lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\DELL\.gradle\caches\8.13\transforms\9c3ac8dba0297623c52533acf02a9779\transformed\lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\383bb11a71d4aaf24d8f18f97a3fa7b4\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\383bb11a71d4aaf24d8f18f97a3fa7b4\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\DELL\.gradle\caches\8.13\transforms\3fcaac0baddb94c1482d5a8cafe6fd98\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\DELL\.gradle\caches\8.13\transforms\3fcaac0baddb94c1482d5a8cafe6fd98\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\2d1eb8e93f296653a4089fa56cc03b87\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\2d1eb8e93f296653a4089fa56cc03b87\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\3cae8921797cc6da2c5d91ff9ff4cbdf\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\3cae8921797cc6da2c5d91ff9ff4cbdf\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.duanhong169:checkerboarddrawable:1.0.2] C:\Users\DELL\.gradle\caches\8.13\transforms\e3919ca2c0e43dea325424413852b10d\transformed\checkerboarddrawable-1.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.duanhong169:checkerboarddrawable:1.0.2] C:\Users\DELL\.gradle\caches\8.13\transforms\e3919ca2c0e43dea325424413852b10d\transformed\checkerboarddrawable-1.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.PojavLauncherTeam:portrait-sdp:ed33e89cbc] C:\Users\DELL\.gradle\caches\8.13\transforms\430acec3390cd0f7dba4fdc1dc3f4c5a\transformed\portrait-sdp-ed33e89cbc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.PojavLauncherTeam:portrait-sdp:ed33e89cbc] C:\Users\DELL\.gradle\caches\8.13\transforms\430acec3390cd0f7dba4fdc1dc3f4c5a\transformed\portrait-sdp-ed33e89cbc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.PojavLauncherTeam:portrait-ssp:6c02fd739b] C:\Users\DELL\.gradle\caches\8.13\transforms\8bf329b86b4962f8f27b20d275c0cc44\transformed\portrait-ssp-6c02fd739b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.PojavLauncherTeam:portrait-ssp:6c02fd739b] C:\Users\DELL\.gradle\caches\8.13\transforms\8bf329b86b4962f8f27b20d275c0cc44\transformed\portrait-ssp-6c02fd739b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Mathias-Boulay:ExtendedView:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\897a92342ad426618d730cdcc0b6b97c\transformed\ExtendedView-1.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.Mathias-Boulay:ExtendedView:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\897a92342ad426618d730cdcc0b6b97c\transformed\ExtendedView-1.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.Mathias-Boulay:android_gamepad_remapper:2.0.3] C:\Users\DELL\.gradle\caches\8.13\transforms\a30501c58e63eb22713e8ca892482f77\transformed\android_gamepad_remapper-2.0.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.Mathias-Boulay:android_gamepad_remapper:2.0.3] C:\Users\DELL\.gradle\caches\8.13\transforms\a30501c58e63eb22713e8ca892482f77\transformed\android_gamepad_remapper-2.0.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.Mathias-Boulay:virtual-joystick-android:1.14] C:\Users\DELL\.gradle\caches\8.13\transforms\f837ad04ffdb7410fc1bb84869294cd7\transformed\virtual-joystick-android-1.14\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.Mathias-Boulay:virtual-joystick-android:1.14] C:\Users\DELL\.gradle\caches\8.13\transforms\f837ad04ffdb7410fc1bb84869294cd7\transformed\virtual-joystick-android-1.14\AndroidManifest.xml:5:5-7:41
+MERGED from [com.bytedance:bytehook:1.0.9] C:\Users\DELL\.gradle\caches\8.13\transforms\daeb383adce4504cbb3b450d370b3052\transformed\bytehook-1.0.9\AndroidManifest.xml:5:5-44
+MERGED from [com.bytedance:bytehook:1.0.9] C:\Users\DELL\.gradle\caches\8.13\transforms\daeb383adce4504cbb3b450d370b3052\transformed\bytehook-1.0.9\AndroidManifest.xml:5:5-44
+MERGED from [top.fifthlight.touchcontroller:proxy-client-android:0.0.4] C:\Users\DELL\.gradle\caches\8.13\transforms\c610015ac7708cb352fbcb929b5d81f2\transformed\proxy-client-android-0.0.4\AndroidManifest.xml:5:5-44
+MERGED from [top.fifthlight.touchcontroller:proxy-client-android:0.0.4] C:\Users\DELL\.gradle\caches\8.13\transforms\c610015ac7708cb352fbcb929b5d81f2\transformed\proxy-client-android-0.0.4\AndroidManifest.xml:5:5-44
+MERGED from [:MobileGlues] E:\Code\AlexMCLauncher\Amethyst-Android\MobileGlues\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:MobileGlues] E:\Code\AlexMCLauncher\Amethyst-Android\MobileGlues\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\6cfa94707cdc112a9500a6c812afeff3\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\DELL\.gradle\caches\8.13\transforms\6cfa94707cdc112a9500a6c812afeff3\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\09d71f44a0ecaeea00f8ad9e25bf49b8\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\09d71f44a0ecaeea00f8ad9e25bf49b8\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\09d71f44a0ecaeea00f8ad9e25bf49b8\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\09d71f44a0ecaeea00f8ad9e25bf49b8\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\09d71f44a0ecaeea00f8ad9e25bf49b8\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\DELL\.gradle\caches\8.13\transforms\09d71f44a0ecaeea00f8ad9e25bf49b8\transformed\window-1.0.0\AndroidManifest.xml:29:13-51

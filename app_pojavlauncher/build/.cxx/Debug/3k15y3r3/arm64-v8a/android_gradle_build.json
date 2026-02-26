@@ -1,0 +1,241 @@
+{
+  "buildFiles": [
+    "E:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Android.mk",
+    "E:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "E:\\Android\\Sdk\\ndk\\25.2.9519653\\ndk-build.cmd",
+      "NDK_PROJECT_PATH\u003dnull",
+      "APP_BUILD_SCRIPT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Android.mk",
+      "NDK_APPLICATION_MK\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Application.mk",
+      "NDK_GRADLE_INJECTED_IMPORT_PATH\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\.cxx\\Debug\\3k15y3r3\\prefab\\arm64-v8a",
+      "APP_ABI\u003darm64-v8a",
+      "NDK_ALL_ABIS\u003darm64-v8a",
+      "NDK_DEBUG\u003d1",
+      "APP_PLATFORM\u003dandroid-21",
+      "NDK_OUT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/obj",
+      "NDK_LIBS_OUT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/lib",
+      "APP_SHORT_COMMANDS\u003dtrue",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "E:\\Android\\Sdk\\ndk\\25.2.9519653\\ndk-build.cmd",
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Android.mk",
+    "NDK_APPLICATION_MK\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Application.mk",
+    "NDK_GRADLE_INJECTED_IMPORT_PATH\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\.cxx\\Debug\\3k15y3r3\\prefab\\arm64-v8a",
+    "APP_ABI\u003darm64-v8a",
+    "NDK_ALL_ABIS\u003darm64-v8a",
+    "NDK_DEBUG\u003d1",
+    "APP_PLATFORM\u003dandroid-21",
+    "NDK_OUT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/obj",
+    "NDK_LIBS_OUT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/lib",
+    "APP_SHORT_COMMANDS\u003dtrue",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "awt_headless-proguard-arm64-v8a": {
+      "buildCommandComponents": [
+        "E:\\Android\\Sdk\\ndk\\25.2.9519653\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Application.mk",
+        "NDK_GRADLE_INJECTED_IMPORT_PATH\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\.cxx\\Debug\\3k15y3r3\\prefab\\arm64-v8a",
+        "APP_ABI\u003darm64-v8a",
+        "NDK_ALL_ABIS\u003darm64-v8a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/obj",
+        "NDK_LIBS_OUT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/lib",
+        "APP_SHORT_COMMANDS\u003dtrue",
+        "E:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/obj/local/arm64-v8a/libawt_headless.so"
+      ],
+      "toolchain": "toolchain-arm64-v8a",
+      "abi": "arm64-v8a",
+      "artifactName": "awt_headless",
+      "output": "E:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3\\obj\\local\\arm64-v8a\\libawt_headless.so"
+    },
+    "pojavexec_awt-proguard-arm64-v8a": {
+      "buildCommandComponents": [
+        "E:\\Android\\Sdk\\ndk\\25.2.9519653\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Application.mk",
+        "NDK_GRADLE_INJECTED_IMPORT_PATH\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\.cxx\\Debug\\3k15y3r3\\prefab\\arm64-v8a",
+        "APP_ABI\u003darm64-v8a",
+        "NDK_ALL_ABIS\u003darm64-v8a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/obj",
+        "NDK_LIBS_OUT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/lib",
+        "APP_SHORT_COMMANDS\u003dtrue",
+        "E:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/obj/local/arm64-v8a/libpojavexec_awt.so"
+      ],
+      "toolchain": "toolchain-arm64-v8a",
+      "abi": "arm64-v8a",
+      "artifactName": "pojavexec_awt",
+      "output": "E:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3\\obj\\local\\arm64-v8a\\libpojavexec_awt.so"
+    },
+    "cpufeatures-proguard-arm64-v8a": {
+      "buildCommandComponents": [
+        "E:\\Android\\Sdk\\ndk\\25.2.9519653\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Application.mk",
+        "NDK_GRADLE_INJECTED_IMPORT_PATH\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\.cxx\\Debug\\3k15y3r3\\prefab\\arm64-v8a",
+        "APP_ABI\u003darm64-v8a",
+        "NDK_ALL_ABIS\u003darm64-v8a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/obj",
+        "NDK_LIBS_OUT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/lib",
+        "APP_SHORT_COMMANDS\u003dtrue",
+        "E:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/obj/local/arm64-v8a/libcpufeatures.a"
+      ],
+      "toolchain": "toolchain-arm64-v8a",
+      "abi": "arm64-v8a",
+      "artifactName": "cpufeatures",
+      "output": "E:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3\\obj\\local\\arm64-v8a\\libcpufeatures.a"
+    },
+    "exithook-proguard-arm64-v8a": {
+      "buildCommandComponents": [
+        "E:\\Android\\Sdk\\ndk\\25.2.9519653\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Application.mk",
+        "NDK_GRADLE_INJECTED_IMPORT_PATH\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\.cxx\\Debug\\3k15y3r3\\prefab\\arm64-v8a",
+        "APP_ABI\u003darm64-v8a",
+        "NDK_ALL_ABIS\u003darm64-v8a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/obj",
+        "NDK_LIBS_OUT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/lib",
+        "APP_SHORT_COMMANDS\u003dtrue",
+        "E:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/obj/local/arm64-v8a/libexithook.so"
+      ],
+      "toolchain": "toolchain-arm64-v8a",
+      "abi": "arm64-v8a",
+      "artifactName": "exithook",
+      "output": "E:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3\\obj\\local\\arm64-v8a\\libexithook.so"
+    },
+    "SDL2-proguard-arm64-v8a": {
+      "buildCommandComponents": [
+        "E:\\Android\\Sdk\\ndk\\25.2.9519653\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Application.mk",
+        "NDK_GRADLE_INJECTED_IMPORT_PATH\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\.cxx\\Debug\\3k15y3r3\\prefab\\arm64-v8a",
+        "APP_ABI\u003darm64-v8a",
+        "NDK_ALL_ABIS\u003darm64-v8a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/obj",
+        "NDK_LIBS_OUT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/lib",
+        "APP_SHORT_COMMANDS\u003dtrue",
+        "E:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/obj/local/arm64-v8a/libSDL2.so"
+      ],
+      "toolchain": "toolchain-arm64-v8a",
+      "abi": "arm64-v8a",
+      "artifactName": "SDL2",
+      "output": "E:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3\\obj\\local\\arm64-v8a\\libSDL2.so"
+    },
+    "awt_xawt-proguard-arm64-v8a": {
+      "buildCommandComponents": [
+        "E:\\Android\\Sdk\\ndk\\25.2.9519653\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Application.mk",
+        "NDK_GRADLE_INJECTED_IMPORT_PATH\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\.cxx\\Debug\\3k15y3r3\\prefab\\arm64-v8a",
+        "APP_ABI\u003darm64-v8a",
+        "NDK_ALL_ABIS\u003darm64-v8a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/obj",
+        "NDK_LIBS_OUT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/lib",
+        "APP_SHORT_COMMANDS\u003dtrue",
+        "E:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/obj/local/arm64-v8a/libawt_xawt.so"
+      ],
+      "toolchain": "toolchain-arm64-v8a",
+      "abi": "arm64-v8a",
+      "artifactName": "awt_xawt",
+      "output": "E:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3\\obj\\local\\arm64-v8a\\libawt_xawt.so"
+    },
+    "linkerhook-proguard-arm64-v8a": {
+      "buildCommandComponents": [
+        "E:\\Android\\Sdk\\ndk\\25.2.9519653\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Application.mk",
+        "NDK_GRADLE_INJECTED_IMPORT_PATH\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\.cxx\\Debug\\3k15y3r3\\prefab\\arm64-v8a",
+        "APP_ABI\u003darm64-v8a",
+        "NDK_ALL_ABIS\u003darm64-v8a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/obj",
+        "NDK_LIBS_OUT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/lib",
+        "APP_SHORT_COMMANDS\u003dtrue",
+        "E:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/obj/local/arm64-v8a/liblinkerhook.so"
+      ],
+      "toolchain": "toolchain-arm64-v8a",
+      "abi": "arm64-v8a",
+      "artifactName": "linkerhook",
+      "output": "E:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3\\obj\\local\\arm64-v8a\\liblinkerhook.so"
+    },
+    "pojavexec-proguard-arm64-v8a": {
+      "buildCommandComponents": [
+        "E:\\Android\\Sdk\\ndk\\25.2.9519653\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Application.mk",
+        "NDK_GRADLE_INJECTED_IMPORT_PATH\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\.cxx\\Debug\\3k15y3r3\\prefab\\arm64-v8a",
+        "APP_ABI\u003darm64-v8a",
+        "NDK_ALL_ABIS\u003darm64-v8a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/obj",
+        "NDK_LIBS_OUT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/lib",
+        "APP_SHORT_COMMANDS\u003dtrue",
+        "E:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/obj/local/arm64-v8a/libpojavexec.so"
+      ],
+      "toolchain": "toolchain-arm64-v8a",
+      "abi": "arm64-v8a",
+      "artifactName": "pojavexec",
+      "output": "E:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3\\obj\\local\\arm64-v8a\\libpojavexec.so"
+    },
+    "SDL3-proguard-arm64-v8a": {
+      "buildCommandComponents": [
+        "E:\\Android\\Sdk\\ndk\\25.2.9519653\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\jni\\Application.mk",
+        "NDK_GRADLE_INJECTED_IMPORT_PATH\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\.cxx\\Debug\\3k15y3r3\\prefab\\arm64-v8a",
+        "APP_ABI\u003darm64-v8a",
+        "NDK_ALL_ABIS\u003darm64-v8a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/obj",
+        "NDK_LIBS_OUT\u003dE:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/lib",
+        "APP_SHORT_COMMANDS\u003dtrue",
+        "E:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3/obj/local/arm64-v8a/libSDL3.so"
+      ],
+      "toolchain": "toolchain-arm64-v8a",
+      "abi": "arm64-v8a",
+      "artifactName": "SDL3",
+      "output": "E:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\build\\intermediates\\cxx\\Debug\\3k15y3r3\\obj\\local\\arm64-v8a\\libSDL3.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-arm64-v8a": {
+      "cCompilerExecutable": "E:\\Android\\Sdk\\ndk\\25.2.9519653\\build\\..\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "E:\\Android\\Sdk\\ndk\\25.2.9519653\\build\\..\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

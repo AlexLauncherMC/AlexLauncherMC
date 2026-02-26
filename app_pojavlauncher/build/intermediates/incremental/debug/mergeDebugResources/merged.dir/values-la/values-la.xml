@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_fatal">AlexMCLauncher crashed subito</string>
+    <string name="warning_remove_account">Et ob hoc remotus!</string>
+</resources>

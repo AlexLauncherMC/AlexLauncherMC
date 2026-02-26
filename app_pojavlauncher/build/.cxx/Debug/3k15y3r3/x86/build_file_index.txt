@@ -1,0 +1,2 @@
+E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\jni\Android.mk
+E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\jni\Application.mk

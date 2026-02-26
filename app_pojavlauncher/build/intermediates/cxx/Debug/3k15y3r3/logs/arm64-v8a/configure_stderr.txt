@@ -1,0 +1,2 @@
+process_begin: CreateProcess(NULL, (rm E:/Code/AlexMCLauncher/Amethyst-Android/app_pojavlauncher/src/main/jni/../jniLibs/*/libawt_headless.so), ...) failed.
+E:\Code\AlexMCLauncher\Amethyst-Android\app_pojavlauncher\src\main\jni\Android.mk:112: pipe: No error

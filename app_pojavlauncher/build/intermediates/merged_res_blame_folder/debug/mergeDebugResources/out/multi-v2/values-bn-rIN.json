@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "net.kdt.pojavlaunch.app_pojavlauncher-mergeDebugResources-24:/values-bn-rIN/values-bn-rIN.xml",
+            "map": [
+                {
+                    "source": "E:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\res\\values-bn-rIN\\strings.xml",
+                    "from": {
+                        "startLines": "6,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "177,333",
+                        "endColumns": "154,59",
+                        "endOffsets": "327,388"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,210",
+                        "endColumns": "154,59",
+                        "endOffsets": "205,265"
+                    }
+                }
+            ]
+        }
+    ]
+}

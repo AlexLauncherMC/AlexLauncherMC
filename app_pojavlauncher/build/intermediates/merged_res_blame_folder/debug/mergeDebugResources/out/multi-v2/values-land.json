@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "net.kdt.pojavlaunch.app_pojavlauncher-mergeDebugResources-24:/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "E:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\res\\values-land\\styles.xml",
+                    "from": {
+                        "startLines": "3,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "85,648",
+                        "endLines": "13,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "640,916"
+                    },
+                    "to": {
+                        "startLines": "5,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "264,814",
+                        "endLines": "15,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "809,1078"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DELL\\.gradle\\caches\\8.13\\transforms\\4f38a8b810fabccda3493647ae7eadaf\\transformed\\appcompat-1.2.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}

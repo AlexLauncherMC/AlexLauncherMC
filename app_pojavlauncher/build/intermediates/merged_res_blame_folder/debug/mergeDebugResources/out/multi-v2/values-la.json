@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "net.kdt.pojavlaunch.app_pojavlauncher-mergeDebugResources-24:/values-la/values-la.xml",
+            "map": [
+                {
+                    "source": "E:\\Code\\AlexMCLauncher\\Amethyst-Android\\app_pojavlauncher\\src\\main\\res\\values-la\\strings.xml",
+                    "from": {
+                        "startLines": "11,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "432,300",
+                        "endColumns": "69,69",
+                        "endOffsets": "497,365"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,125",
+                        "endColumns": "69,69",
+                        "endOffsets": "120,190"
+                    }
+                }
+            ]
+        }
+    ]
+}
